@@ -5,7 +5,6 @@ A collection of implementations of key cryptographic algorithms in C++.
 ## Table of Contents
 
 - [Algorithms](#algorithms)
-- [Getting Started](#getting-started)
 - [License](#license)
 
 ## Algorithms
