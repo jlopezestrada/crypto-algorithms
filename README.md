@@ -12,6 +12,12 @@ A collection of implementations of key cryptographic algorithms in C++.
 The repository is organized into several categories:
 
 ### Symmetric Key Cryptography
+Type of encryption where the same key is used for both encrypting and decrypting the data.
+Some examples are:
+- AES
+- DES
+- 3DES
+- Blowfish
 
 ### Asymmetric Key Cryptography
 
